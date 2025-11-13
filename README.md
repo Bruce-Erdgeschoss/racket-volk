@@ -37,6 +37,7 @@ Kleine DrRacket-Übung zur Modellierung rationaler Zahlen mithilfe einer eigenen
 - Bekannte Fehler korrigieren (z. B. die Additionsfunktion nutzt aktuell zweimal den Zähler statt Zähler/Nenner zu kombinieren).
 - Optional: Hilfsfunktionen wie `gcd` integrieren, damit Ausgaben automatisch gekürzt erscheinen.
 
-## Lizenz
 
-Keine explizite Lizenz hinterlegt; bei Bedarf ergänzen.
+Aufgabe von 
+[github.com/digitalvolk
+](https://github.com/digitalvolk)
